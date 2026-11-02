@@ -1,0 +1,30 @@
+{
+  "seed": 123,
+  "repetitions": 2000,
+  "scenarios": [
+    {
+      "n": 20,
+      "rate": 4,
+      "attempted": 2000,
+      "skipped": 0
+    },
+    {
+      "n": 20,
+      "rate": 10,
+      "attempted": 2000,
+      "skipped": 0
+    },
+    {
+      "n": 200,
+      "rate": 4,
+      "attempted": 2000,
+      "skipped": 0
+    },
+    {
+      "n": 200,
+      "rate": 10,
+      "attempted": 2000,
+      "skipped": 0
+    }
+  ]
+}
